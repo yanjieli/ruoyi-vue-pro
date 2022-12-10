@@ -34,7 +34,7 @@ CREATE TABLE `QRTZ_BLOB_TRIGGERS`  (
 -- ----------------------------
 -- Records of QRTZ_BLOB_TRIGGERS
 -- ----------------------------
-BEGIN;
+-- BEGIN;
 COMMIT;
 
 -- ----------------------------
@@ -51,7 +51,7 @@ CREATE TABLE `QRTZ_CALENDARS`  (
 -- ----------------------------
 -- Records of QRTZ_CALENDARS
 -- ----------------------------
-BEGIN;
+-- BEGIN;
 COMMIT;
 
 -- ----------------------------
